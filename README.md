@@ -34,8 +34,8 @@ The project emphasizes a clean and responsive design while keeping the code modu
 
 ## 🎥 Preview
 
-![1](1.png)  
-
+![1](1.png)
+![2](2.png)  
 
 ## ⚠️ API Key Setup
 
